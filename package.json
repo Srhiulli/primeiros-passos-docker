@@ -8,6 +8,7 @@
     "start:dotenv": "dotenv -e .env node src/index.js"
   },
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.21.1",
     "joi": "^17.13.3",
     "pg": "^8.13.0",
